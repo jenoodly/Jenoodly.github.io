@@ -1,3 +1,3 @@
-# ~ ACM website dev ~
+# Hi, just a website
 Currently starting over so WIP :)
-www.jennellemaximo.me
+https://jenoodly.github.io/
