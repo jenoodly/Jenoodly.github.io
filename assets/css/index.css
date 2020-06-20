@@ -1,0 +1,38 @@
+body {
+  background-color: #F5F5F5;
+}
+
+p {
+  font-family: "Lucida Console", Courier, monospace;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.froggy {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-140px, -170px)
+}
+
+.flower1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  z-index: -1;
+  transform: translate(15%, -50%)
+}
+
+.flower2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  z-index: 1;
+  transform: translate(-100px, -130%)
+}
